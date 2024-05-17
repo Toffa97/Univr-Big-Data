@@ -3,7 +3,8 @@ processing/files_path_list.txt
 processing/lemmatization_errors.log
 processing/repetition_removal_errors.log
 example.py
-
+processing/deduplication_errors.log
+processing/lemmatization_errors.log
 processing/files_path_list.txt
 1/
 result/
